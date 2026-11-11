@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Taman Putra Harapan - TK PGRI Putra Harapan",
+  "description": "Game edukasi pembelajaran interaktif berkebun untuk anak TK A dan TK B (usia 4-6 tahun) dari TK PGRI Putra Harapan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
